@@ -28,15 +28,16 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |   Sunday   |
-| ------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| _Fenny_ | 6pm - 9pm  | 6pm - 9pm  | 9am - 5pm  | 6pm - 9pm  | 6pm - 9pm  | 6pm - 9pm  | 6pm - 9pm  |
-| _Kaveh_ | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm |
+| Day     |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday   |   Sunday    |
+| ------- | :--------: | :--------: | :--------: | :--------: | :--------: | :---------: | :---------: |
+| _Fenny_ | 6pm - 9pm  | 6pm - 9pm  | 9am - 5pm  | 6pm - 9pm  | 6pm - 9pm  |  6pm - 9pm  |  6pm - 9pm  |
+| _Kaveh_ | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm | 8pm - 10pm  | 8pm - 10pm  |
+| _Ali_   | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 12pm - 11pm | 12pm - 11pm |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- _Kaveh_; 2 Hours Per Day
+- Ali: _3h_;
+- Kaveh: _2h_;
 - name: _5h_;
 - name: _4h_;
 - Fenny: _3h_; I can work more on Wednesday
