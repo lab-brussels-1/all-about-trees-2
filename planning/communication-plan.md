@@ -28,13 +28,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  |  Sunday   |
-| ------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| _Fenny_ | 6pm - 9pm | 6pm - 9pm | 9am - 5pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm | 6pm - 9pm |
+| Day     |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday   |   Sunday    |
+| ------- | :--------: | :--------: | :--------: | :--------: | :--------: | :---------: | :---------: |
+| _Fenny_ | 6pm - 9pm  | 6pm - 9pm  | 9am - 5pm  | 6pm - 9pm  | 6pm - 9pm  |  6pm - 9pm  |  6pm - 9pm  |
+| _Ali_   | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 12pm - 11pm | 12pm - 11pm |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
+- Ali: _3h_;
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
