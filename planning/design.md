@@ -18,6 +18,4 @@
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
-[link to wireframe](https://excalidraw.com/#json=l54yLbo1p7Tuwa7pP-1nx,Hjs7As7N90L1uJXir5Vg7A)
-
-![wireframe](./wireframe.svg)
+![wireframe](./assets/sketch.png)
