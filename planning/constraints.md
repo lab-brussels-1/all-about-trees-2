@@ -11,6 +11,9 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
+- Deadline for the project
+- Replicating all-about-trees as it is
+
 ## Internal: Involuntary
 
 <!--
@@ -18,6 +21,9 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+
+- Limited skills of members
+- No Javascript skills
 
 ## Internal: Voluntary
 
@@ -28,3 +34,6 @@ Some boundaries around our project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+
+- Basic website
+- Limited number of hours to spend working
