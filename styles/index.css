@@ -1,1 +1,9 @@
 @import url("./something.css");
+
+/* targeting the class centered-items and making it a flexbox with items aligned in the center horizontally */
+.centered-items {
+  display: flex;
+  justify-content: center;
+  /*padding of 2% on all sides so other items are not too close*/
+  padding: 2%;
+}
