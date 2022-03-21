@@ -4,6 +4,7 @@
 .centered-items {
   display: flex;
   justify-content: center;
-  /*padding of 2% on all sides so other items are not too close*/
+
+  /* padding of 2% on all sides so other items are not too close */
   padding: 2%;
 }
