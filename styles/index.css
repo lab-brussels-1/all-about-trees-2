@@ -1,12 +1,18 @@
 @import url("./something.css");
 
+/* font type for intro to trees */
+
 .fascinating-words {
   font-family: fantasy;
 }
 
+/* horizontal line divider */
+
 .bottom-divider {
   border-style: none none solid none;
 }
+
+/* style for top nav bar */
 
 .spaced-items {
   display: flex;
