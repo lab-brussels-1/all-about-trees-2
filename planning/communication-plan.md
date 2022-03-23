@@ -8,9 +8,10 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       |   How   | The topic of discussion                 |
+| --------- | :-----: | --------------------------------------- |
+| Monday    | Discord | Delegating the task of project planning |
+| Wednesday | Discord | Reviewing the project tasks             |
 
 ## Communication Channels
 
@@ -18,7 +19,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**:
 - **Pull Requests**:
-- **GitHub Discussions**
+- **GitHub Discussions**: For review
 - **Slack/Discord**: Discord
 - **Video Calls**: Yes
 
