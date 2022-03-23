@@ -1,6 +1,15 @@
 @import url("./something.css");
 
-/* font type for intro to trees */
+/* targeting the class centered-items and making it a flexbox with items aligned in the center horizontally */
+.centered-items {
+  display: flex;
+  justify-content: center;
+
+  /* padding of 2% on all sides so other items are not too close */
+  padding: 2%;
+
+  /* font type for intro to trees */
+}
 
 .fascinating-words {
   font-family: fantasy;
