@@ -7,4 +7,25 @@
 
   /* padding of 2% on all sides so other items are not too close */
   padding: 2%;
+/* font type for intro to trees */
+
+.fascinating-words {
+  font-family: fantasy;
+}
+
+/* horizontal line divider */
+
+.bottom-divider {
+  border-style: none none solid none;
+}
+
+/* style for top nav bar */
+
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
