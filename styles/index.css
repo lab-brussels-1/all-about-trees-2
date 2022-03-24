@@ -111,3 +111,8 @@ ul.links {
   font-size: 13;
   font-style: italic;
 }
+
+/* a solid line on the top to divide content with the footer */
+.top-divider {
+  border-style: solid none none none;
+}
