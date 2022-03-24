@@ -96,3 +96,18 @@ ul.links {
 .bouncy-img:hover {
   animation: bounce 1s;
 }
+
+.aside-info {
+  width: 20%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 13;
+  font-style: italic;
+}
