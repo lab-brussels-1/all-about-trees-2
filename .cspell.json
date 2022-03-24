@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": ["Kaveh", "screenshotweb", "Shewit"],
+  "words": ["Kaveh", "Shewit"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
