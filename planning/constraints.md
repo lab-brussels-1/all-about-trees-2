@@ -1,9 +1,5 @@
 # Constraints
 
-Some boundaries around our project.
-
-# Constraints
-
 Limiting factors for the project that can impact quality, delivery, and overall
 project success
 
@@ -39,12 +35,12 @@ project success
 
 - _Planning_, defining the main goal of the project team, how, what equipment,
   and/or steps will be taken to do so.
-- _Scheduling_, we plot out the realistic timeframe to complete each phase of
+- _Scheduling_, we plot out the realistic time frame to complete each phase of
   the project according to our availability.
 - _Control_, we as a team must communicate the results of each phase of the
   project, and move forward accordingly
 
-### Avaibility
+### Availability
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
